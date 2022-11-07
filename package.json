@@ -1,0 +1,22 @@
+{
+  "name": "game_collector",
+  "version": "1.0.0",
+  "description": "Library of video games collected over time for various gaming systems",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkahuna/game_collector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkahuna/game_collector/issues"
+  },
+  "homepage": "https://github.com/dkahuna/game_collector#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
